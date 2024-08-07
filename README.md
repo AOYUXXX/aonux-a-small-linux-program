@@ -1,2 +1,7 @@
 # aonux-a-small-linux-program
-aoyuxxx's linux study program
+这是一个简单的Linux学习记录
+我准备在一个多月的时间内写一个简单的操作系统，当然，肯定是跟着教程写
+目前的目标是基于Linux0.11写一个类似的
+我将在此更新我的学习进度
+--
+--2024.8.7
